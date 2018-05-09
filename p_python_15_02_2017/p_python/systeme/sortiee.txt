@@ -1,0 +1,40 @@
+Traceback (most recent call last):
+  File "<stdin>", line 1, in <module>
+NameError: name 'memepas' is not defined
+Traceback (most recent call last):
+  File "<stdin>", line 1, in <module>
+FileNotFoundError: [Errno 2] No such file or directory: 'entre.txt'
+Traceback (most recent call last):
+  File "<stdin>", line 1, in <module>
+NameError: name 'entree' is not defined
+Traceback (most recent call last):
+  File "<stdin>", line 1, in <module>
+NameError: name 'entree' is not defined
+Traceback (most recent call last):
+  File "<stdin>", line 1, in <module>
+NameError: name 'entree' is not defined
+Traceback (most recent call last):
+  File "<stdin>", line 1, in <module>
+NameError: name 'entree' is not defined
+Traceback (most recent call last):
+  File "<stdin>", line 1, in <module>
+NameError: name 'entree' is not defined
+Traceback (most recent call last):
+  File "<stdin>", line 1, in <module>
+NameError: name 'entree' is not defined
+Traceback (most recent call last):
+  File "<stdin>", line 1, in <module>
+NameError: name 'entree' is not defined
+  File "<stdin>", line 1
+SyntaxError: keyword can't be an expression
+  File "<stdin>", line 1
+SyntaxError: keyword can't be an expression
+Traceback (most recent call last):
+  File "<stdin>", line 1, in <module>
+NameError: name 'var' is not defined
+Traceback (most recent call last):
+  File "<stdin>", line 1, in <module>
+NameError: name 'var' is not defined
+Traceback (most recent call last):
+  File "<stdin>", line 1, in <module>
+NameError: name 'var' is not defined
